@@ -47,7 +47,7 @@ blockquote > .gaya4{font-family:var(--gaya-font2);font-size:20px !important;font
 blockquote > .gaya3{font-size:17px;font-weight:700}
 blockquote > .gaya2{font-size:15px;font-weight:400}
 blockquote > #pesan3{position: absolute;opacity:0;transform: scale(.1);transition:all .7s ease;}
-blockquote p:not(#halo, #opsL, #kalimat, #pesan3, #pesan0 #pesan1 #pesan2 .gaya2){display:none;}
+blockquote p:not(#halo, #opsL, #kalimat, #pesan3, #pesan0, #pesan1, #pesan2, .gaya2){display:none;}
 blockquote > #opsL{text-align:right;font-size:11px;font-weight:400;line-height:0;margin-top:24px;color:white;opacity:0;transition:all .2s ease;}
 
 #Tombol{position:relative;opacity:0;margin:0;display:flex;align-items:left;list-style:none;transform: scale(.1);transition:all 1s ease;}
